@@ -1,0 +1,2 @@
+Practing git in terminal.
+Here are some lines so I can change this file.
